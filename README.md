@@ -18,7 +18,7 @@ Uma técnica prática para calcular determinantes de matrizes 3x3
 
 ### Resolução por Cramer
 
-Permite resolver sistemas do tipo `Ax = B` quando `det(A) ≠ 0`.
+Permite resolver sistemas quando `det(A) ≠ 0`.
 
 
 ### Requisitos
