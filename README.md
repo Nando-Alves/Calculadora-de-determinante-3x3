@@ -21,6 +21,6 @@ Uma técnica prática para calcular determinantes de matrizes 3x3
 Permite resolver sistemas do tipo `Ax = B` quando `det(A) ≠ 0`.
 
 
-###Requisitos
+### equisitos
 Python 3.6 ou superior
 
