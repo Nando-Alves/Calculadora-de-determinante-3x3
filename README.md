@@ -16,6 +16,9 @@ Este script em Python resolve sistemas lineares de 3 equações e 3 incógnitas 
 
 Uma técnica prática para calcular determinantes de matrizes 3x3:
 
-###Requisitos
+
+
+
+#Requisitos
 Python 3.6 ou superior
 
